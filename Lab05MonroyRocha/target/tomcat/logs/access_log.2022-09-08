@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:00:33 -0500] "GET /?name1=Santiago HTTP/1.1" 200 52 http-bio-8080-exec-1 466
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:00:37 -0500] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:01:14 -0500] "GET /helloServlet?name=Sapo HTTP/1.1" 200 20 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:01:22 -0500] "GET /helloServlet?name=Sapo HTTP/1.1" 200 20 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:01:24 -0500] "GET /helloServlet?name=Sapo HTTP/1.1" 200 20 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [08/Sep/2022:18:02:05 -0500] "GET /helloServlet?name=Doris HTTP/1.1" 200 22 http-bio-8080-exec-1 28
