@@ -21,7 +21,7 @@ public class Todo {
         return id;
     }
 
-    public void setUserId(int id){
+    public void setId(int id){
         this.id = id;
     }
 
@@ -33,7 +33,7 @@ public class Todo {
         this.title = title;
     }
 
-    public int getCompleted(){
+    public boolean getCompleted(){
         return completed;
     }
 
